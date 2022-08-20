@@ -1,5 +1,6 @@
 # Food Restaurant Home Page
 Webpage built using HTML &amp; CSS without any frameworks.
+
 ## While building this page--Learnt:
 - Learned about how to apply background color on top of the background image and also learnt about linear gradients.
 
